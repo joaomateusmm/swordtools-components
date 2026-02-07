@@ -1,16 +1,14 @@
 {
-  "name": "minha-biblioteca-ui",
-  "version": "1.0.0",
+  "name": "swordtools-ui",
   "components": [
     {
-      "name": "button",
-      "files": [
-        {
-          "path": "components/Button.tsx",
-          "type": "registry:ui"
-        }
-      ],
-      "dependencies": []
+      "name": "button-gratis",
+      "type": "free",
+      "files": ["components/Button.tsx"]
+    },
+    {
+      "name": "neon-button",
+      "type": "premium"
     }
   ]
 }
