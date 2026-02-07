@@ -1,0 +1,16 @@
+{
+  "name": "minha-biblioteca-ui",
+  "version": "1.0.0",
+  "components": [
+    {
+      "name": "button",
+      "files": [
+        {
+          "path": "components/Button.tsx",
+          "type": "registry:ui"
+        }
+      ],
+      "dependencies": []
+    }
+  ]
+}
