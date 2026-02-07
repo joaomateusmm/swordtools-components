@@ -1,14 +1,18 @@
 {
-  "name": "swordtools-ui",
   "components": [
     {
-      "name": "button-gratis",
+      "name": "button",
       "type": "free",
       "files": ["components/Button.tsx"]
     },
     {
       "name": "neon-button",
       "type": "premium"
+    },
+    {
+      "name": "ghost-button",
+      "type": "free",
+      "files": ["components/GhostButton.tsx"]
     }
   ]
 }
