@@ -1,9 +1,9 @@
 {
   "components": [
     {
-      "name": "button",
+      "name": "copy-button",
       "type": "free",
-      "files": ["components/Button.tsx"]
+      "files": ["components/CopyButton.tsx"]
     },
     {
       "name": "neon-button",
