@@ -7,7 +7,9 @@
     },
     {
       "name": "neon-button",
-      "type": "premium"
+      "type": "premium",
+      "dependencies": ["lucide-react"],
+      "files": []
     },
     {
       "name": "ghost-button",
